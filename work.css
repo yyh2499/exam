@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    overflow-x: hidden;
+}
+.top {
+    width: 120em;
+    height: 6.2em;
+    background-color: #171717;
+}
+.logo {
+   background-image: url(./1/images/pure-new-zealand-logo.svg);
+   position: relative;
+   top: 20px;
+   left: 359px;
+   width: 280px;
+   height: 27px;
+}
