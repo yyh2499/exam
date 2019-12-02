@@ -15,3 +15,22 @@ body {
    width: 280px;
    height: 27px;
 }
+ul li{
+  display: inline-block;
+  padding-right:29px;
+  color: #ffffff;   position: relative;
+  font-size: 14px;
+}
+ul li a {
+  box-sizing: content-box;
+  color:black;
+  display: block;
+  height: 25px;
+  line-height:25px;
+  text-decoration: none;
+}
+small {
+  position: relative;
+  top: 100px;
+  left: 25px;
+}
