@@ -1,6 +1,7 @@
 body {
     margin: 0;
     overflow-x: hidden;
+    margin-left: auto;
 }
 .top {
     width: 120em;
@@ -18,19 +19,89 @@ body {
 ul li{
   display: inline-block;
   padding-right:29px;
-  color: #ffffff;   position: relative;
+  color: #ffffff;  
+  position: relative;
   font-size: 14px;
+  top:-22px;
+  left:300px;
 }
 ul li a {
   box-sizing: content-box;
-  color:black;
+  color:#ffffff;
   display: block;
-  height: 25px;
+  height:25px;
   line-height:25px;
   text-decoration: none;
-}
-small {
   position: relative;
-  top: 100px;
-  left: 25px;
+  left:105px;
+  top:-18px;
 }
+ul {
+  position: relative;
+  top: 11.3px;
+}
+.home {
+  position: relative;
+  left: 315px;
+}
+.images {
+  background-image: url(./1/images/sun.jpg);
+  width: 1920px;
+  height: 660px;
+}
+.next {
+  margin:0px;
+  padding:9px;
+  padding-left:10px;
+  padding-bottom: 10px;
+  position: relative;
+  top: -530px;
+  left:-380px;
+  color:#ffffff;
+  font-size:15px;
+  display:inline-block;
+}
+
+.morning{
+  width: 448px;
+  height: 176px;
+  background-color: #2d2d2d;
+  position: relative; 
+  top: -620px;
+  left: 30px;
+  color:#ffffff;
+  padding:5px;
+  padding-left:10px;
+  display:inline-block;
+  font-family: "Pakati",helvetica,arial,verdana,tahoma,sans-serif
+}
+.background{
+  background-image:url(./1/images/back.jpg);
+  width:1920px;
+  height:660px;
+  background-repeat: no-repeat;
+}
+.photo {
+  position: relative;
+  left: 130px;
+}
+.next {
+  position: absolute;
+  width: 440px;
+  height: 193px;
+  background-color: rgba(red, green, blue, alpha);
+  top: 60px;
+  left: 5px;
+}
+.words {
+  display:inline-block;
+  position: relative;
+  top:-470px;
+  left:-690px;
+  height:36px;
+  width:122px;
+  background-color:#2db6e8;
+  color:#ffffff;
+  border-color: #2db6e8;
+}
+
