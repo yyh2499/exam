@@ -84,6 +84,7 @@ ul {
 .photo {
   position: relative;
   left: 130px;
+  top: -250px;
 }
 .next {
   position: absolute;
@@ -105,3 +106,66 @@ ul {
   border-color: #2db6e8;
 }
 
+.words-2 h2{
+  padding-left: 650px;
+  padding-right: 650px;
+  width: 300px;
+  position: relative;
+  top: -300px;
+}
+.words-3 a {
+  text-align: center;
+  position: relative;
+  width: 450px;
+  left: 550px;
+  top: -300px;
+}
+
+.words-4 h3 {
+  position: relative;
+  left: 610px;
+  top: -250px;
+}
+
+.words-5 a {
+  color: #0093de;
+  font-family: inherit;
+  font-size: inherit;
+  font-weight: inherit;
+  text-decoration: none;
+  position: relative;
+  left: 575px;
+  top: -250px;
+}
+
+.photo-2 , ul li{
+  display: inline-block;
+}
+.people{
+  position:relative;
+  top:-250px;
+  left:110px;
+}
+ .photo-2 ul img {
+  width: 1200px;
+}
+
+.words-6 h4 {
+  max-width: calc(50 - 10px);
+  padding: 20px;
+  margin: 0 auto;
+  position: relative;
+  top: -100px;
+}
+.words-7 {
+  margin-bottom: 0;
+  text-align: center;
+}
+.words-7 a {
+  color: #0093de;
+  font-family: inherit;
+  font-size: inherit;
+  font-weight: inherit;
+  text-decoration: none;
+  z-index: 2;
+}
