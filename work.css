@@ -150,22 +150,143 @@ ul {
   width: 1200px;
 }
 
-.words-6 h4 {
-  max-width: calc(50 - 10px);
-  padding: 20px;
-  margin: 0 auto;
-  position: relative;
-  top: -100px;
+.words-6 {
+  height: 212px;
+  background-color: rgb(247, 247, 247);
+  
+  border-top:1px solid rgb(222, 222, 222);
 }
-.words-7 {
-  margin-bottom: 0;
+#wake {
+  padding-top: 20px;
+  font-size: 210%;
   text-align: center;
 }
-.words-7 a {
-  color: #0093de;
-  font-family: inherit;
-  font-size: inherit;
-  font-weight: inherit;
+.words-6{
+  font-size: 1.1em;
+  padding-left: 38%;
+  width: 463px;
+  position: absolute;
+  top: -200px;
+  left: -100px;
+}
+
+
+.zimo {
+  margin-left: 2%;
+  position: relative;
+  left: 100px;
+  display: inline;
+  padding-right:10px;
+}
+div#words-6 {
+  position: absolute;
+  left: 500px;
+}
+
+
+#ditu {
+  background-image:url(./picture/getting-here-map-ind__FocalPointCropWzY2MCwxOTIwLDUwLDUwLDc1LCJqcGciLDY1LDIuNV0.jpg) ;
+  width: 1920px;
+  height: 660px;
+}
+
+#waimianhongse {
+  position: relative;
+}
+
+.hongse {
+  position: absolute;
+  top: -600px;
+  left: 75%;
+  z-index: 1;
+}
+
+#jihua {
+  text-align: center;
+}
+#suoyousvg {
+  margin-left: 250px;
+}
+#suoyousvg p {
+  font-size: 16px;
+}
+#qiche {
+  width: 180px;
+  text-align: center;
+  display: inline-block;
+  padding-right: 100px;
+  position: relative;
+  top: -60px;
+}
+#qiche h2 {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;  
+}
+
+.car {
+  width: 80px;
+}
+.zimo2 {
+  font-size: 16px;
+}
+.zimo2 a:link {
   text-decoration: none;
-  z-index: 2;
+}
+.zimo2 a:visited {
+  color:#0093de;
+}
+.zimo2 a:hover {
+  text-decoration: underline;
+  color:#0093de;
+}
+#yun {
+  width: 180px;
+  text-align: center;
+  display: inline-block;
+  padding-right: 100px;
+}
+.weather {
+  width: 80px;
+}
+#yun h2 {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.accommodation {
+  width: 80px;
+}
+#chuang {
+  width: 180px;
+  text-align: center;
+  display: inline-block;
+  position: relative;
+  top: -45px;
+}
+.bus {
+  width: 80px;
+}
+#gongjiaoche {
+ width: 180px;
+ text-align: center;
+ display: inline-block;
+ padding-left: 100px;
+}
+
+  
+#sangeanniu {
+  position: relative;
+  left: 40%;
+  top: 30px;
+}
+h3 {
+  margin-top: 50px;
+  text-align: center;
+}
+.youxiang {
+  text-align: center;
+}
+
+#huise {
+  background-color: rgb(45, 45, 45);
+  height: 42px;
+  width: 1920px;
+  margin-top: 35px;
 }
