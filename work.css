@@ -123,7 +123,7 @@ ul {
 
 .words-4 h3 {
   position: relative;
-  left: 610px;
+  left: 400spx;
   top: -250px;
 }
 
@@ -181,6 +181,7 @@ ul {
 div#words-6 {
   position: absolute;
   left: 500px;
+  top:2100px;
 }
 
 
@@ -194,15 +195,17 @@ div#words-6 {
   position: relative;
 }
 
-.hongse {
+.hongse  img{
   position: absolute;
-  top: -600px;
+  top:-500px;
   left: 75%;
   z-index: 1;
 }
 
 #jihua {
   text-align: center;
+  font-size: 160%;
+  color: #0093de;
 }
 #suoyousvg {
   margin-left: 250px;
@@ -288,5 +291,154 @@ h3 {
   background-color: rgb(45, 45, 45);
   height: 42px;
   width: 1920px;
+  margin-top: -350px;
+  position: absolute;
+}
+.small  {
+  position: relative;
+  top: 40px;
+  left: 300px;
+}
+
+.huise {
+  background-color: rgb(45, 45, 45);
+  height: 42px;
+  width: 1920px;
   margin-top: 35px;
+}
+.liang {
+  margin-left: 345px;
+  padding-top: 8px;
+  font-size: 13px;
+}
+.xiaohui {
+  background-color: rgb(68, 68, 68);
+  color: rgb(202, 202, 202);
+  padding: 1px 5px 3px 5px;
+  margin-right: 8px;
+}
+.zimo2 {
+  font-size: 16px;
+}
+.gao {
+  background-color: rgb(23, 23, 23);
+  height: 335px;
+  width: 1920px;
+  color: rgb(202, 202, 202);
+}
+.situozi {
+  margin-left: 325px;
+}
+.kuan-find {
+  width: 120px;
+  display: inline-block;
+  position: relative;
+  top: -25px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.kuan-find h9 {
+  margin: 0px 0px 10px 0px;
+  color: #fff;
+}
+.twitter {
+  width: 30px;
+}
+.zimo3waikuang {
+  position: relative;
+}
+.zimo3 {
+  position: absolute;
+  left: 35px;
+  top: -25px;
+}
+.zimo3 a {
+  color: rgb(202, 202, 202);
+}
+.instagram {
+  width: 30px;
+}
+.facebook {
+  width: 15px;
+}
+.youtube {
+  width: 30px;
+}
+.kuan-con {
+  display: inline-block;
+  width: 120px;
+  position: relative;
+  top: -80px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.kuan-con h9 {
+  margin: 0px 0px 10px 0px;
+  color: #fff;
+}
+.zimo4 {
+  color: rgb(202, 202, 202);
+  line-height: 0.7em;
+}
+.zimo4 a:visited {
+  color: rgb(202, 202, 202);
+}
+.zimo4 a:link {
+  text-decoration: none;
+}
+.kuan-help {
+  display: inline-block;
+  width: 175px;
+  position: relative;
+  top: 22px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.kuan-help h9 {
+  margin: 0px 0px 10px 0px;
+  color: #fff;
+}
+.kuan-our {
+  display: inline-block;
+  width: 120px;
+  position: relative;
+  top: 25px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.kuan-our h9 {
+  margin: 0px 0px 10px 0px;
+  color: #fff;
+}
+.yezisvg {
+  float: right;
+  margin-top: 50px;
+  margin-right: 650px;
+}
+.ok {
+  color: #fff;
+  margin: 50px 0px 20px 345px;
+}
+.ok1 {
+  display: inline;
+  vertical-align: middle;
+}
+.ok a {
+  color: #fff;
+  text-decoration: none;
+}
+h9 {
+  font-size: 1.5em;
+}
+.eleven {
+  margin-top: -680px;
+}
+.annv1 {
+  position: relative;
+  top: 220px;
+}
+.annv2 {
+  position: relative;
+  left: 1200px;
+  top: 150px;
 }
